@@ -21,7 +21,7 @@ const Charles = {
   'Bootstrap', 
   'Ruby', 
   'Python', 
-  'Javascript'
+  'JavaScript'
   ],
   Facts: 'I enjoy seeing my thought come to life through programming',
   WelcomeMessage: 'Hey Welcome to my Github Space Feel Free to explore my Projects'
