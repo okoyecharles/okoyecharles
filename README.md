@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/102174805/177937430-e730ecc7-095b-456f-8993-b327915bba6b.png" alt="My banner" border-radius="5px"  width="100%"/>
 
 ## Hey I'm Okoye Charles 
-Remote Full Stack Developer Exploring new Opportunities!
+Remote Full-Stack Developer Exploring new Opportunities!
 
 [<img src="https://user-images.githubusercontent.com/102174805/177940734-da66452d-c0fa-4141-b6d1-878ef1a5dc16.png" alt="linkedIn" width="50px"/>](https://www.linkedin.com/in/charles-okoye-633374236/)
 [<img src="https://user-images.githubusercontent.com/102174805/177942630-84b2d0ab-48f0-4ece-afee-4a6748d61c39.png" alt="Twitter" width="50px"/>](https://twitter.com/OkoyeCharles_)
