@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/102174805/188927150-716f6633-2e5d-4527-9876-d7738703a869.jpg" alt="My banner" border-radius="5px"  width="100%"/>
+<img src="https://user-images.githubusercontent.com/102174805/196951017-77b0970b-a359-4ada-af4d-ad1dccd9f860.png" alt="My banner" border-radius="5px"  width="100%"/>
 
 ## Hey I'm Okoye Charles 
 Remote Full-Stack Developer Exploring new Opportunities!
