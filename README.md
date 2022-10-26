@@ -36,7 +36,7 @@ console.log(Charles.WelcomeMessage)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=okoyecharles&show_icons=true&theme=radical" alt="Stats" height="150"/>    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okoyecharles&layout=compact&theme=radical" alt="Top-Langs" height="150"/>
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okoyecharles&theme=gradient" alt="Lizdev-05" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okoyecharles&show_icons=true&theme=gradient" alt="OkoyeCharles" /></p>
 
 
 <p>You can check out my portfolio <a href='https://okoyecharles.netlify.app'>here</a></p>
