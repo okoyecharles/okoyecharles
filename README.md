@@ -2,7 +2,7 @@
 
 ### Hey I'm Okoye Charles 👋
 -----------------------------------------
-I'm an experienced software engineer with a year of experience developing and enhancing existing and new systems, including both client and server side development, whilst designing efficiencies and cost-saving systems.
+Hey Welcome to my Github Space. I'm a full-stack software engineer with a year of experience developing and enhancing existing and new systems, including both client and server side development, whilst designing efficiencies and cost-saving systems.
 
 
 [<img src="https://user-images.githubusercontent.com/102174805/177940734-da66452d-c0fa-4141-b6d1-878ef1a5dc16.png" alt="linkedIn" width="50px"/>](https://www.linkedin.com/in/charles-okoye-633374236/)
@@ -25,12 +25,12 @@ const Charles = {
   'Python', 
   'JavaScript'
   ],
-  Facts: 'I enjoy seeing my thought come to life through programming',
-  WelcomeMessage: 'Hey Welcome to my Github Space Feel Free to explore my Projects'
+  facts: 'I enjoy seeing my thought come to life through programming',
+  WelcomeMessage: 'Hey welcome to my Github Space feel Free to explore my projects'
 }
 console.log(Charles.WelcomeMessage)
 ```
-`Hey Welcome to my Github Space Feel Free to explore my Projects`
+`Hey welcome to my Github Space feel Free to explore my projects`
 
 ## What have I done on Github this year?
 
