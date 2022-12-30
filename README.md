@@ -39,4 +39,4 @@ console.log(Charles.WelcomeMessage)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=okoyecharles&show_icons=true&theme=gradient" alt="OkoyeCharles" /></p>
 
 
-<p>You can check out my portfolio <a href='https://okoyecharles.netlify.app'>here</a></p>
+<p>You can check out my portfolio <a href='https://okoyecharles.com'>here</a></p>
