@@ -5,7 +5,7 @@
 
 ### Hello There 👋
 -----------------------------------------
-Hey Welcome to my Github Space. I'm a full-stack software engineer with a year of experience developing and enhancing existing and new systems, including both client and server side development, whilst designing efficiencies and cost-saving systems.
+Hey Welcome to my Github Space. I'm a full-stack software engineer with 2 years of experience developing and enhancing existing and new systems, including both client and server side development, whilst designing efficiencies and cost-saving systems.
 
 
 [<img src="https://user-images.githubusercontent.com/102174805/177940734-da66452d-c0fa-4141-b6d1-878ef1a5dc16.png" alt="linkedIn" width="50px"/>](https://www.linkedin.com/in/charles-okoye-633374236/)
@@ -15,7 +15,7 @@ Hey Welcome to my Github Space. I'm a full-stack software engineer with a year o
 ## A little more about myself
 
 ```javascript
-const Charles = {
+const about = {
   exploring: 'New Jobs and Opportunities',
   hobbies: ['Learning New Stuff','Reading','Coding'],
   pronouns: 'him'||'he',
@@ -29,11 +29,8 @@ const Charles = {
   'JavaScript'
   ],
   facts: 'I enjoy seeing my thought come to life through programming',
-  WelcomeMessage: 'Hey welcome to my Github Space feel Free to explore my projects'
 }
-console.log(Charles.WelcomeMessage)
 ```
-`Hey welcome to my Github Space feel Free to explore my projects`
 
 ## What have I done on Github this year?
 
