@@ -1,6 +1,9 @@
-<img src="https://user-images.githubusercontent.com/102174805/196952388-d19d0332-5e47-432b-863a-9bdb59fdc866.png" alt="My banner" border-radius="5px"  width="100%"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/102174805/229381419-508bdc39-dcbc-4436-816c-d627861ed8e5.png" alt="My banner" width="800px"/>
+</div>
 
-### Hey I'm Okoye Charles 👋
+
+### Hello There 👋
 -----------------------------------------
 Hey Welcome to my Github Space. I'm a full-stack software engineer with a year of experience developing and enhancing existing and new systems, including both client and server side development, whilst designing efficiencies and cost-saving systems.
 
