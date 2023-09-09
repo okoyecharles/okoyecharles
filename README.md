@@ -2,8 +2,8 @@
   <img src="https://github.com/okoyecharles/okoyecharles/assets/102174805/4180c2c9-fa5f-4c51-9774-958f24688795" alt="My banner" width="800px"/>
 </div>
 
-### Hello There 👋
------------------------------------------
+## Hello There 👋
+
 Hey Welcome to my Github Space. I'm a full-stack software engineer with 2 years of experience developing and enhancing existing and new systems, including both client and server side development, whilst designing efficiencies and cost-saving systems.
 
 
