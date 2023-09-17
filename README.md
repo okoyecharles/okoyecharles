@@ -2,8 +2,10 @@
   <img src="https://github.com/okoyecharles/okoyecharles/assets/102174805/4180c2c9-fa5f-4c51-9774-958f24688795" alt="My banner" width="800px"/>
 </div>
 
-Hey, welcome to my Github profile. I'm a software engineer with multiple years of experience. 
+Hey, welcome to my Github profile. I'm a software engineer with multiple years of experience.
+
 Here, I develop and enhance new and existing projects, with a focus on both client-side and server-side development.
+
 I also love tackling complex issues with code.
 
 
