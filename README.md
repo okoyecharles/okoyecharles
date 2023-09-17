@@ -3,7 +3,8 @@
 </div>
 
 Hey, welcome to my Github profile. I'm a software engineer with multiple years of experience. 
-Here, I develop and enhance new and existing projects, with a focus on both client-side and server-side development, and I love tackling complex issues through code.
+Here, I develop and enhance new and existing projects, with a focus on both client-side and server-side development.
+I also love tackling complex issues with code.
 
 
 [<img src="https://user-images.githubusercontent.com/102174805/177940734-da66452d-c0fa-4141-b6d1-878ef1a5dc16.png" alt="linkedIn" width="50px"/>](https://www.linkedin.com/in/okoyecharles/)
