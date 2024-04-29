@@ -10,6 +10,32 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2540 commits        ████████░░░░░░░░░░░░░░░░░   31.05 % 
+🌆 Daytime                3800 commits        ████████████░░░░░░░░░░░░░   46.45 % 
+🌃 Evening                1787 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+🌙 Night                  53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/04/2024 01:29:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
