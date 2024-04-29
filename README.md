@@ -1,7 +1,7 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=300&color=3291FF&center=true&vCenter=true&random=false&width=300&height=24&lines=Hey+There;Hola;Namaste;Aloha;Bonjour;Konnichiwa)
-  <h2>I'm <strong>Okoye Charles</strong> an aspiring software developer</h2>
+  <h2>I'm <strong>Okoye Charles</strong>, an aspiring software developer</h2>
   
 </div>
 
