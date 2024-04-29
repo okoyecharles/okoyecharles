@@ -13,7 +13,7 @@
     💻 Full-stack Engineer • Web Developer
     💼 Studing Comp. Science @UNN
     🎧 Lofi • Code • Anime • Games
-    🍪 Cookies • Coffeee • Pizza
+    🍪 Cookies • Coffee • Pizza
     📖 UI Design • Web Accessibility • Remote Development
   ```
 
@@ -23,10 +23,10 @@
 
 <div align="center">
 
-  [![github](./assets/badge-portfolio.svg)](https://okoyecharles.com)
-  [![github](./assets/badge-x.svg)](https://x.com/okoyecharlesk)
-  [![github](./assets/badge-mail.svg)](mailto:okoyecharles509@gmail.com)
-  [![github](./assets/badge-linkedin.svg)](https://linkedin.com/in/okoyecharles)
+  [![portfolio](./assets/badge-portfolio.svg)](https://okoyecharles.com)
+  [![X](./assets/badge-x.svg)](https://x.com/okoyecharlesk)
+  [![mail](./assets/badge-mail.svg)](mailto:okoyecharles509@gmail.com)
+  [![linkedin](./assets/badge-linkedin.svg)](https://linkedin.com/in/okoyecharles)
   
 </div>
 
@@ -37,7 +37,8 @@
 <div align="center">
   
   <h2>
-    <img src="https://media.giphy.com/media/3vlLk4zLF4iVbZISXd/giphy.gif" alt="--" height="30" /> Coding Stats  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" alt="--" height="30" />
+    Coding Stats 
+    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" alt="--" height="30" />
   </h2>
   
 </div>
