@@ -35,10 +35,11 @@
 
 
 <div align="center">
-  
+
   <h2>
-    Coding Stats 
-    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" alt="--" height="30" />
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611dhvp8dydhh4r22mjr73owy4d5zzlo7s5zyk60w8s&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="--" height="50" />
+    <br/>
+    Coding Stats
   </h2>
   
 </div>
