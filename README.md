@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Hello There](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=300&color=3291FF&center=true&vCenter=true&random=false&width=300&height=24&lines=Hey+There;Hola;Namaste;Aloha;Bonjour;Konnichiwa)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=300&color=3291FF&center=true&vCenter=true&random=false&width=300&height=24&lines=Hey+There;Hola;Namaste;Aloha;Bonjour;Konnichiwa" alt="hello there" height="36" width="300" />
   <h2>I'm <strong>Okoye Charles</strong>, an aspiring software developer</h2>
   
 </div>
@@ -37,7 +37,7 @@
 <div align="center">
 
   <h2>
-    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611dhvp8dydhh4r22mjr73owy4d5zzlo7s5zyk60w8s&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="--" height="50" />
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611dhvp8dydhh4r22mjr73owy4d5zzlo7s5zyk60w8s&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="--" height="50" width="50" />
     <br/>
     Coding Stats
   </h2>
