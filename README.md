@@ -45,7 +45,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,13 +67,13 @@
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-TypeScript               5 hrs 16 mins       █████████████████████████   99.90 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               3 hrs 46 mins       █████████████████████████   99.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/01/2025 01:14:21 UTC
+ Last Updated on 16/01/2025 01:13:45 UTC
 <!--END_SECTION:waka-->
