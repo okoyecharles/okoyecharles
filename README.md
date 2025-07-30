@@ -45,9 +45,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
 
@@ -67,14 +67,16 @@
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-TypeScript               8 hrs 13 mins       ████████████████████████░   97.67 % 
-Lua                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               7 hrs 26 mins       ████████████████████████░   96.78 % 
+Lua                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      8 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/07/2025 01:08:59 UTC
+ Last Updated on 30/07/2025 01:05:39 UTC
 <!--END_SECTION:waka-->
