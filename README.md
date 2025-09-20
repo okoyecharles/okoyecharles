@@ -45,38 +45,10 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2954 commits        ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-🌆 Daytime                4462 commits        ███████████░░░░░░░░░░░░░░   43.19 % 
-🌃 Evening                2587 commits        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌙 Night                  329 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Dart                     8 hrs 9 mins        ████████████████████░░░░░   80.62 % 
-TypeScript               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-conf                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-💻 Operating System: 
-Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 19/09/2025 00:57:41 UTC
+ Last Updated on 20/09/2025 00:54:27 UTC
 <!--END_SECTION:waka-->
