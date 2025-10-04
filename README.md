@@ -45,10 +45,34 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 03/10/2025 00:55:07 UTC
+```text
+🌞 Morning                2981 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+🌆 Daytime                4554 commits        ███████████░░░░░░░░░░░░░░   43.36 % 
+🌃 Evening                2632 commits        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+🌙 Night                  336 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+TypeScript               1 hr 44 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/10/2025 00:53:49 UTC
 <!--END_SECTION:waka-->
