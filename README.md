@@ -45,7 +45,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,12 +67,15 @@
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 19 mins       ████████████████████████░   97.97 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/10/2025 00:56:14 UTC
+ Last Updated on 11/10/2025 00:52:53 UTC
 <!--END_SECTION:waka-->
